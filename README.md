@@ -14,6 +14,5 @@
  </p>
   <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api?username=Armant786&theme=dark&show_icons=true&count_private=true" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armant786&theme=tokyonight"  height="200px"/>
 </P>
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
