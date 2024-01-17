@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on ...Web Development
 - 🌱 I’m currently learning ... Html,CSS,Java Script
-- 🤔 I’m looking for help with ... Node.js
 - 📫 How to reach me: ... armantamboli456@gmail.com
 
   <h4> 🔭<samp> Tech Stack</samp></h4>
