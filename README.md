@@ -1,5 +1,18 @@
-# Hi, I'm Arman Tamboli 👋👨🏻‍💻 
+<p align="center">Hey 👋, I'm Arman Tamboli</p>  
 
+<br />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Arman786&&style=flat-square" align="center" />
+</div>  
+  
+
+
+
+  
+<div align="center">
+
+## Glad to see you here!  
 - 🔭 I’m currently working on ...Web Development
 - 🌱 I’m currently learning ... Html,CSS,Java Script
 - 📫 How to reach me: ... armantamboli456@gmail.com
