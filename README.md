@@ -34,4 +34,16 @@
   <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api?username=Armant786&theme=dark&show_icons=true&count_private=true" height="200px" />
 </P>
+## Github Stats  
+<table align="center"><tr><td valign="top" width="50%">
+
+
+![Armant786's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armant786&show_icons=true&theme=highcontrast)
+
+</td><td valign="top" width="50%">
+                                 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armant786&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117)](https://github.com/Armant786/github-readme-stats)
+                                 
+
+</td></tr></table>  
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
