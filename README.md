@@ -31,9 +31,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
  </p>
-  <p align='left'>
+<!--   <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api?username=Armant786&theme=dark&show_icons=true&count_private=true" height="200px" />
-</P>
+</P> -->
 ## Github Stats  
 <table align="center"><tr><td valign="top" width="50%">
 
