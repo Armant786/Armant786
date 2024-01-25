@@ -40,7 +40,7 @@
 
 ![Armant786's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armant786&show_icons=true&theme=highcontrast)
 
-</td><td valign="top" width="50%">
+</td><td valign="top" height="200px" width="50%">
                                  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armant786&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117)](https://github.com/Armant786/github-readme-stats)
                                  
